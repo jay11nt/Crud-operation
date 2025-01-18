@@ -17,9 +17,10 @@ public class Contractor
 	private String experience;
 	
 	
-	public Contractor() {
+	public Contractor() 
+	{
 		super();
-		// TODO Auto-generated constructor stub
+		
 	}
 	public Contractor(int contractorId, String name, String experience) {
 		super();
