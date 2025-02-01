@@ -31,3 +31,12 @@
   - Spring Data JPA
   - MySQL/PostgreSQL (or any database of your choice)
   - Maven
+
+
+     | Method | Endpoint | Description |
+     |--------|---------|-------------|
+     | GET    | /contractors       | Get all contractors |
+     | GET    | /contractor/{id}   | Get contractor by ID |
+     | POST   | /contractor        | Add a new contractor |
+     | PUT    | /contractor/{id}   | Update contractor details |
+     | DELETE | /contractor/{id}   | Delete a contractor |
