@@ -32,7 +32,7 @@
   - MySQL/PostgreSQL (or any database of your choice)
   - Maven
 
-**API Endpoints**
+- **API Endpoints-**
      | Method | Endpoint | Description |
      |--------|---------|-------------|
      | GET    | /contractors       | Get all contractors |
