@@ -23,3 +23,11 @@
       │   │   │   ├── application.properties
       │   ├── pom.xml
       │   ├── README.md
+
+- **Technologies Used**
+
+ - Java
+ - Spring Boot
+ - Spring Data JPA
+ - MySQL/PostgreSQL (or any database of your choice)
+ - Maven
