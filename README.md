@@ -42,3 +42,9 @@
      | DELETE | /contractor/{id}   | Delete a contractor |
 
 - **Steps to Run**
+1. **Download the project** or copy the files manually.
+2. Open the project in **IntelliJ IDEA**, **Eclipse**, or **VS Code**.
+3. Configure `application.properties` with your database credentials.
+4. Run the application using:
+  
+
