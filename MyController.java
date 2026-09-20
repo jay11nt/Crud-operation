@@ -29,7 +29,7 @@ public class MyController
 	
 	@GetMapping("/contractor/{id}")
 	public Contractor getContractorById(@PathVariable("id") Integer id )
-	{
+	{	//get id
 		return contractorService.getContractorById(id);
 	}
 	
